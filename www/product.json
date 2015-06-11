@@ -1,0 +1,36 @@
+[{
+		"productid": 100,
+		"productname": "Casio ",
+		"description": "world time zone watch covers 56 time zones",
+		"netweight": "300gms",
+		"price": 2400,
+		"images": "img/casio.jpg",
+		"inventory count": 5
+	},
+	{
+		"productid": 200,
+		"productname": "Logitech Wireless Mouse",
+		"description": "Wireless mouse with 20 ft range and 750dpi sensitivity",
+		"netweight": "200gms",
+		"price": 1500,
+		"images": "img/logitech wireless mouse.jpg",
+		"inventory count": 2
+	},
+	{
+		"productid": 300,
+		"productname": "Lays Chips",
+		"description": "Crispy Potato chips",
+		"netweight": "100gms",
+		"price": 20,
+		"images": "img/lays chips.jpg",
+		"inventory count": 50
+	},
+	{
+		"productid": 400,
+		"productname": "HTC Wildfire S",
+		"description": "Android Smartphone with 5Mp Camera and 600Mhz processor",
+		"netweight": "na",
+		"price": 6000,
+		"images": "img/htc wildfire s.jpg",
+		"inventory count": 3
+	}]
